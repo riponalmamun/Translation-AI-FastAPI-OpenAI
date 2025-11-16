@@ -1,15 +1,4 @@
-# Python cache
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-
-# Virtual environment
 .venv/
-env/
-
-# Environment variables
 *.env
-
-# IDE / editor settings
+__pycache__/
 .vscode/
